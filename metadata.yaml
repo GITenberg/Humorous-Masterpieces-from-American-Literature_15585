@@ -1,0 +1,35 @@
+_repo: Humorous-Masterpieces-from-American-Literature_15585
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Mason, Edward T. (Edward Tuckerman)
+    alias: Mason, Edward Tuckerman
+    birthdate: 1847
+    deathdate: 1911
+    gutenberg_agent_id: '39109'
+    url: http://www.gutenberg.org/2009/agents/39109
+description: ''
+gutenberg_issued: '2005-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'American wit and humor'
+tableOfContents: Selections from the Experiences of the A.C. -- Dobbs His Ferry --
+  Father Higgins's Preferment -- Fred Trover's Little Iron-Clad -- Mr. Bluff Discourses
+  on the Country and Kindred Themes -- Garden Ethics -- Captain Ben's Choice -- Street
+  Scenes in Washington -- Selections from Transcendental Wild Oats -- Conversational
+  Depravity -- The Tower of London -- Science and Natural History -- From the "Lecture"
+  -- Our Tavern -- A Piece of Red Calico -- Aunt Pen's Funeral -- The Celebrated Jumping
+  Frog of Calaveras County -- Ben Thirlwall's School-days -- Selections from a Brace
+  of Boys -- A Rivermouth Romance.
+title: Humorous Masterpieces from American Literature
+url: http://www.gutenberg.org/ebooks/15585
